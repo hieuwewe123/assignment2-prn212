@@ -1,0 +1,42 @@
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\hatda\source\repos\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\hatda\Downloads\FUMiniHotelSystem (2)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

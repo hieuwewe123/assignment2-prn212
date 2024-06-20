@@ -1,0 +1,20 @@
+﻿FUMiniHotelSystem
+
+
+winexe
+C#
+.cs
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net6.0-windows\
+FUMiniHotelSystem
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\X\Downloads\FUMiniHotelSystem (1)\FUMiniHotelSystem\FUMiniHotelSystem\App.xaml
+13-1417163917
+
+161894053938
+222-1091619825
+Admin\AddCustomerWindow.xaml;Admin\AddRoomInfomationWindow.xaml;Admin\BookingReservationDetailWindow.xaml;Admin\BookingReservationManager.xaml;Admin\CustomerManager.xaml;Admin\ReportStatistic.xaml;Admin\RoomInfoManager.xaml;Admin\WindowAdmin.xaml;Customer\History.xaml;Customer\Profile.xaml;Customer\WindowCustomer.xaml;MainWindow.xaml;WindowLogin.xaml;
+
+False
+

@@ -1,0 +1,35 @@
+﻿<Page x:Class="FUMiniHotelSystem.Admin.BookingReservationManager"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:FUMiniHotelSystem.Admin"
+      mc:Ignorable="d"
+      Title="BookingReservationManager" Height="450" Width="800">
+    <Grid>
+        <ListView Name="lvBr" Margin="10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" Width="50" DisplayMemberBinding="{Binding BookingReservationId}" />
+                    <GridViewColumn Header="Booking Date" Width="150">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding BookingDate, StringFormat={}{0:dd/MM/yyyy}}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Total Price" Width="100" DisplayMemberBinding="{Binding TotalPrice}" />
+                    <GridViewColumn Header="Customer Name" Width="180" DisplayMemberBinding="{Binding CustomerName}" />
+                    <GridViewColumn Header="Status" Width="100" DisplayMemberBinding="{Binding BookingStatus}" />
+                    <GridViewColumn Header="Detail" Width="100">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="View Detail" Click="ViewDetail_Click" Tag="{Binding BookingReservationId}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>
